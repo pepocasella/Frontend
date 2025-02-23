@@ -1,0 +1,32 @@
+
+.banner-img{
+	display: inline-block;
+    background-color: cadetblue;
+	width: 30%;
+}
+
+.banner-texto{
+	display: inline-block;
+    background-color: cadetblue;
+	width: 70%;
+}
+
+.button-nav-bar{
+	float: right;
+	transition-duration: 0.4s;
+	background-color: white;
+	color: black;
+	border: 0px solid #96b0e1;
+	padding: 15px;
+	margin-left: 10px;
+}
+
+.button-nav-bar:hover {
+	background-color: #96b0e1;
+	color: white;
+  }
+
+.illustration-1{
+	width: 50%;
+	height: auto;
+}
